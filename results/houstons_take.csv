@@ -1,0 +1,21 @@
+rank,quarterback,grade,houstons_take
+1,Jordan Love,88.9,The model really likes Love's overall efficiency. My next question would be how much Green Bay's scheme and supporting cast helped create those advantages.
+2,Matthew Stafford,88.5,This fits what I see from Stafford as a high-level passer. I would next look at aggressive throws and whether his efficiency held up in tougher situations.
+3,Drake Maye,88.4,"This is one of the most interesting results. The efficiency is real in this sample, but I would want another season and more situation-specific data before making a huge conclusion."
+4,Jared Goff,84.8,Goff's efficiency shows up clearly here. I would want to separate what he created himself from the advantage of playing in a strong offensive environment.
+5,Dak Prescott,84.2,Dak has a balanced profile instead of being carried by one statistic. That is exactly the type of quarterback this model is designed to reward.
+6,Sam Darnold,83.7,"This is why I like using data instead of reputation alone. His season grades well, so the next step is figuring out how much was quarterback play versus situation."
+7,Josh Allen,81.2,"The passing grade is useful, but it undersells his total value because this version does not include rushing. Adding rushing EPA would be one of my first upgrades."
+8,Jalen Hurts,78.7,"Like Allen, Hurts loses important value in a passing-only model. His rushing and short-yardage impact need to be included before calling this an overall QB grade."
+9,C.J. Stroud,75.3,"I would treat this as a reason to investigate, not a final verdict. I want to know which parts of the offense pulled the efficiency down and how much was actually under his control."
+10,Caleb Williams,72.5,"This feels more like a baseline than a final evaluation. Pressure, sacks, explosive plays and offensive environment would be important additions."
+11,Patrick Mahomes,71.9,"This is the result that makes me question the model the most, which is useful. It tells me to investigate what a passing-efficiency model misses rather than automatically assuming the ranking is right."
+12,Bo Nix,71.7,"Nix lands near the middle, so I would break down whether his value came more from accuracy, avoiding mistakes or creating explosive plays."
+13,Aaron Rodgers,69.9,"This shows why I am evaluating one season instead of a career. The model only cares about the 2025 efficiency profile, not past reputation."
+14,Justin Herbert,69.6,"This is lower than I would expect, so I would dig into pressure, explosive throws and supporting cast before making a bigger judgment."
+15,Trevor Lawrence,69.5,"The grade makes me want more context. Protection, receiver play and opponent strength would help explain whether the efficiency numbers tell the full story."
+16,Jacoby Brissett,68.7,"This is a good reminder that sample selection matters. He had enough volume for the comparison, but one season should not be treated as a long-term talent grade."
+17,Bryce Young,66.7,"I would want to separate quarterback performance from environment here. Pressure, offensive line play and receiver separation would be important next steps."
+18,Baker Mayfield,65.6,"This is lower than I expected, which makes it a useful case study. I would identify exactly which components are dragging the grade down before deciding what it means."
+19,Geno Smith,60.5,The result surprised me. I would check whether one metric is overly punishing him or whether his overall 2025 efficiency really did trail this group.
+20,Cam Ward,60,"For a young quarterback, I see this as a baseline rather than a final judgment. I would track how the efficiency changes as his experience and situation develop."

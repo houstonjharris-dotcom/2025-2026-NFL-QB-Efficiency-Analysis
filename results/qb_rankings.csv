@@ -1,0 +1,21 @@
+rank,quarterback,team,games,attempts,pass_yards,pass_td,int,comp_pct,epa_per_attempt,cpoe,yards_per_attempt,td_rate,int_rate,sack_rate,passing_efficiency_grade,tier
+1,Jordan Love,GB,15,439,3381,23,6,66.3,0.252,5.53,7.7,5.24,1.37,4.57,88.9,Very Good
+2,Matthew Stafford,LA,17,597,4707,46,8,65.0,0.252,1.54,7.88,7.71,1.34,3.71,88.5,Very Good
+3,Drake Maye,NE,17,492,4394,31,8,72.0,0.338,10.78,8.93,6.3,1.63,8.72,88.4,Very Good
+4,Jared Goff,DET,17,578,4564,34,8,68.0,0.184,1.78,7.9,5.88,1.38,6.17,84.8,Good
+5,Dak Prescott,DAL,17,600,4552,30,10,67.3,0.191,2.2,7.59,5.0,1.67,4.91,84.2,Good
+6,Sam Darnold,SEA,17,477,4048,25,14,67.7,0.156,5.16,8.49,5.24,2.94,5.36,83.7,Good
+7,Josh Allen,BUF,16,460,3668,25,10,69.3,0.155,3.51,7.97,5.43,2.17,8.0,81.2,Good
+8,Jalen Hurts,PHI,16,454,3224,25,6,64.8,0.076,3.18,7.1,5.51,1.32,6.58,78.7,Average Starter
+9,C.J. Stroud,HOU,14,423,3041,19,8,64.5,0.113,0.36,7.19,4.49,1.89,5.16,75.3,Average Starter
+10,Caleb Williams,CHI,17,568,3942,27,7,58.1,0.074,-3.51,6.94,4.75,1.23,4.05,72.5,Below Average Starter
+11,Patrick Mahomes,KC,14,502,3587,22,11,62.7,0.136,0.34,7.15,4.38,2.19,6.34,71.9,Below Average Starter
+12,Bo Nix,DEN,17,612,3931,25,11,63.4,0.103,-1.2,6.42,4.08,1.8,3.47,71.7,Below Average Starter
+13,Aaron Rodgers,PIT,16,498,3322,24,7,65.7,0.057,0.04,6.67,4.82,1.41,5.5,69.9,Poor
+14,Justin Herbert,LAC,16,512,3727,26,13,66.4,0.031,1.57,7.28,5.08,2.54,9.54,69.6,Poor
+15,Trevor Lawrence,JAX,17,560,4007,29,12,60.9,0.069,-1.88,7.16,5.18,2.14,6.82,69.5,Poor
+16,Jacoby Brissett,ARI,14,485,3366,23,8,64.9,-0.007,1.64,6.94,4.74,1.65,8.14,68.7,Poor
+17,Bryce Young,CAR,16,478,3011,23,11,63.6,-0.046,1.0,6.3,4.81,2.3,5.35,66.7,Poor
+18,Baker Mayfield,TB,17,543,3693,26,11,63.2,0.001,-2.12,6.8,4.79,2.03,6.22,65.6,Poor
+19,Geno Smith,LV,15,448,3025,19,17,67.4,-0.163,0.71,6.75,4.24,3.79,10.93,60.5,Very Poor
+20,Cam Ward,TEN,17,540,3169,15,7,59.8,-0.202,-2.93,5.87,2.78,1.3,9.24,60,Very Poor
